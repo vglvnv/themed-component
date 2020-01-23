@@ -1,0 +1,4 @@
+.nsi:not(.dark) {
+  background-color: #00f;
+  color: #fff;
+}
